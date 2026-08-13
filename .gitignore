@@ -1,0 +1,4 @@
+.DS_Store
+password.txt
+
+#this is comments and u add this files by opening .gitignore in vscode using "Code .gitignore" and type file names to be ommited
